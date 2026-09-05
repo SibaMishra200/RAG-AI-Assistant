@@ -1,0 +1,49 @@
+# =========================
+# LangChain
+# =========================
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+langchain-chroma
+# =========================
+# LLM - Groq
+# =========================
+# gpt-oss-120b via Groq
+groq
+
+# =========================
+# Hugging Face Embeddings
+# =========================
+sentence-transformers
+transformers
+huggingface-hub
+
+# =========================
+# Vector Database
+# =========================
+chromadb
+
+# =========================
+# Document Loaders
+# =========================
+pypdf
+python-docx
+unstructured
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Web UI
+# =========================
+streamlit
+
+# =========================
+# Data Processing
+# =========================
+numpy
+pandas
